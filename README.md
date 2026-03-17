@@ -16,90 +16,76 @@ Building **AI agents for legal automation**
 
 # 🚀 About
 
-Lawyer from **Universidad de los Andes (Colombia)** working at the intersection of:
+Lawyer from **Universidad de los Andes (Colombia)** building systems at the intersection of:
 
-- Artificial Intelligence  
-- Financial regulation  
-- Legal systems  
-- Technology innovation  
+**Artificial Intelligence · Law · Financial Regulation · Technology**
 
-Focused on **building scalable legal systems powered by AI**.
+Goal:
+
+**Transform legal services into scalable AI-powered systems.**
 
 ---
 
-# 🧠 Core Stack
+# 🧠 Core Development Stack
 
-| AI Backend | Frontend | Data | AI Tools |
-|---|---|---|---|
-| Python | TypeScript | PostgreSQL | OpenAI |
-| FastAPI | React | Vector DBs | LangChain |
-| RAG Systems | Next.js | Pinecone | LlamaIndex |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-AI%20Agents-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Full%20Stack-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-AI%20Backends-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-Interfaces-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
 
 ---
 
 # 🚧 Currently Building
 
-| Project | Description |
-|---|---|
-| 🥑 **Avocado** | AI legal assistant via WhatsApp |
-| 🤖 **Legal AI Agents** | Autonomous legal reasoning agents |
-| 🔗 **Smart Contracts + AI** | AI supervision of blockchain contracts |
-| 📊 **Legal Analytics** | Data systems for compliance |
+| Focus | Description |
+|------|-------------|
+| 🤖 **AI Agents** | Autonomous legal reasoning systems |
+| 📚 **Legal RAG** | Retrieval systems for legal knowledge |
+| 🔗 **AI + Smart Contracts** | AI supervision of blockchain contracts |
+| 📊 **Legal Analytics** | Data-driven compliance tools |
+
+---
+
+# 🧩 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🥑 **Avocado AI** | AI legal assistant via WhatsApp | Python · RAG · React |
+| 🔗 **Smart Contract Agents** | Autonomous supervision of blockchain contracts | Python · Web3 |
+| 📊 **Legal Analytics Platform** | Compliance monitoring and legal analytics | Python · SQL |
 
 ---
 
 # 💼 Experience
 
 | Role | Organization | Focus |
-|---|---|---|
-| Founder | AVOCADO | AI legal automation |
-| Legal Analyst | CredibanCo | Fintech regulation |
-| Researcher | AI/Law Lab | AI applied to law |
+|----|----|----|
+| Founder | **Avocado** | AI legal automation |
+| Legal Analyst | **CredibanCo** | Fintech regulation |
+| Researcher | **AI/Law Research Lab** | AI applied to law |
 
 ---
 
-# 🧩 Featured Projects
+# 🛠 Tech Ecosystem
 
-| Project | Stack | Description |
-|---|---|---|
-| 🥑 Avocado | Python · React · RAG | AI legal assistant |
-| 🔗 Smart Contract Agents | Python · Web3 | Autonomous contract supervision |
-| 📊 Legal Analytics | Python · SQL | Compliance monitoring |
-
----
-
-# 🛠 Tech Stack
-
-### AI Engineering
-- RAG Architectures
-- Prompt Engineering
-- Vector Databases
-- Context training for legal AI
-
-### Backend
-- Python
-- FastAPI
-- REST APIs
-
-### Frontend
-- React
-- TypeScript
-
-### Databases
-- PostgreSQL
-- SQL
-- Vector databases
-
-### Cloud
-- AWS
-- Azure
-- Google Cloud
+| Area | Tools |
+|----|----|
+| **AI Engineering** | RAG · Prompt Engineering · Vector Search |
+| **Backend** | Python · FastAPI |
+| **Frontend** | React · TypeScript |
+| **Databases** | PostgreSQL · Vector Databases |
+| **AI Frameworks** | LangChain · LlamaIndex |
+| **Cloud** | AWS · Azure · Google Cloud |
 
 ---
 
 # 📊 GitHub Activity
 
-| Languages | Stats |
+| Most Used Languages | GitHub Stats |
 |---|---|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselito412&layout=compact&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joselito412&show_icons=true&theme=radical) |
 
@@ -120,11 +106,11 @@ Focused on **building scalable legal systems powered by AI**.
 
 **Law — Universidad de los Andes**
 
-Certifications:
+Certifications
 
 - Data Protection Expert  
 - MIT Design Thinking  
-- Data Analysis & Visualization  
+- Data Analysis and Visualization  
 
 </details>
 
@@ -149,6 +135,6 @@ Japanese — Basic
 
 <div align="center">
 
-*"Simplifying law and democratizing access to legal excellence"*
+**"Simplifying law through intelligent systems"**
 
 </div>
