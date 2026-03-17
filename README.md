@@ -1,13 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Jose Guillermo Vasquez Guzman
+# 👋 Jose Guillermo Vasquez Guzman
 
-### Legal-Tech Innovator | AI Governance | Fintech Compliance | Legal Design
+### Legal-Tech • AI Agents • Fintech Compliance
 
-Building **AI Agents for Legal Automation**
+Building **AI agents for legal automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guillermo-vg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseguiller)
 [![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joselito412.github.io/jgvg-linktree/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jguillervg@avocado.center)
 
@@ -15,202 +14,92 @@ Building **AI Agents for Legal Automation**
 
 ---
 
-# 🚀 About Me
-
-> **I design creative legal solutions powered by artificial intelligence and legal design**
+# 🚀 About
 
 Lawyer from **Universidad de los Andes (Colombia)** working at the intersection of:
 
-- Artificial Intelligence
-- Legal systems
-- Financial regulation
-- Technology innovation
+- Artificial Intelligence  
+- Financial regulation  
+- Legal systems  
+- Technology innovation  
 
-My goal is to **transform legal services into scalable digital systems**.
-
-Main areas:
-
-- 🤖 AI Agents for legal automation
-- 🔐 Data privacy and regulatory compliance
-- 💼 Fintech and payment systems regulation
-- ⚖️ Smart contracts and blockchain
-- 🎨 Legal design for accessible justice
+Focused on **building scalable legal systems powered by AI**.
 
 ---
 
-# 🤖 Currently Building
+# 🧠 Core Stack
 
-- AI agents for **legal automation**
-- **RAG systems** for legal knowledge
-- **Smart contract supervision with AI**
-- **Legal analytics platforms**
-
-Tech focus:
-
-**Python · TypeScript · FastAPI · React · Vector Databases**
+| AI Backend | Frontend | Data | AI Tools |
+|---|---|---|---|
+| Python | TypeScript | PostgreSQL | OpenAI |
+| FastAPI | React | Vector DBs | LangChain |
+| RAG Systems | Next.js | Pinecone | LlamaIndex |
 
 ---
 
-# 🧠 Core Development Stack
+# 🚧 Currently Building
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-AI%20Agents-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Full%20Stack%20AI-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-AI%20Backends-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-Interfaces-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-</div>
+| Project | Description |
+|---|---|
+| 🥑 **Avocado** | AI legal assistant via WhatsApp |
+| 🤖 **Legal AI Agents** | Autonomous legal reasoning agents |
+| 🔗 **Smart Contracts + AI** | AI supervision of blockchain contracts |
+| 📊 **Legal Analytics** | Data systems for compliance |
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
-## 🥑 Founder & CEO — AVOCADO
-**January 2024 — Present**
-
-"Your pocket lawyer"
-
-AI-powered legal platform providing **24/7 legal assistance via WhatsApp**.
-
-System design:
-
-- AI handles routine legal analysis
-- Lawyers handle complex cases
-- Fast and affordable legal support
-
-Main components:
-
-- Legal RAG system
-- AI reasoning agents
-- Context-aware legal responses
-
----
-
-## 🏦 Legal Analyst — CredibanCo
-**October 2020 — December 2023**
-
-Work focused on **financial innovation and regulation**:
-
-- Open Finance in Colombia
-- Payment systems regulation
-- Banking as a Service
-- Blockchain in finance
-- Data protection
-- Regulatory analysis
-
----
-
-## 🔬 AI/Law Research Lab — Universidad de los Andes
-**Active member**
-
-Research on **AI applications in legal systems**.
+| Role | Organization | Focus |
+|---|---|---|
+| Founder | AVOCADO | AI legal automation |
+| Legal Analyst | CredibanCo | Fintech regulation |
+| Researcher | AI/Law Lab | AI applied to law |
 
 ---
 
 # 🧩 Featured Projects
 
-## 🥑 AVOCADO — Virtual Legal Solution
-
-Tech stack:
-
-Python · React · Vector Databases · LLM APIs · WhatsApp API
-
-Features:
-
-- Legal RAG retrieval system
-- AI agents for legal reasoning
-- Context training for Colombian law
-- Agile development cycles
-
-https://avocado.center
+| Project | Stack | Description |
+|---|---|---|
+| 🥑 Avocado | Python · React · RAG | AI legal assistant |
+| 🔗 Smart Contract Agents | Python · Web3 | Autonomous contract supervision |
+| 📊 Legal Analytics | Python · SQL | Compliance monitoring |
 
 ---
 
-## 🔗 Smart Contracts + AI Agents
+# 🛠 Tech Stack
 
-Tech:
-
-Python · Web3.py · Solidity · LangChain
-
-Concept:
-
-AI agents monitor **real-world conditions** and trigger contract execution.
-
----
-
-## 📊 Legal Analytics Platform
-
-Tech:
-
-Python · SQL · React
-
-Tools for:
-
-- compliance monitoring
-- legal data analysis
-- regulatory reporting
-
----
-
-# 🛠️ Tech Stack
-
-## AI Engineering
-
-- LLM Prompt Engineering
+### AI Engineering
 - RAG Architectures
-- Vector Databases (Pinecone, Chroma, Weaviate)
+- Prompt Engineering
+- Vector Databases
 - Context training for legal AI
 
-## Backend
-
+### Backend
 - Python
 - FastAPI
 - REST APIs
 
-## Frontend
-
+### Frontend
 - React
 - TypeScript
-- HTML / CSS
 
-## Databases
-
+### Databases
 - PostgreSQL
 - SQL
 - Vector databases
 
-## AI Tools
-
-- OpenAI API
-- Anthropic Claude
-- LangChain
-- LlamaIndex
-
-## Cloud
-
+### Cloud
 - AWS
 - Azure
 - Google Cloud
 
 ---
 
-# 📚 Academic Background
-
-Lawyer  
-**Universidad de los Andes (Colombia)**
-
-Certifications:
-
-- Data Protection Expert
-- MIT Design Thinking
-- Data Analysis and Visualization
-
----
-
 # 📊 GitHub Activity
 
-| Most Used Languages | GitHub Stats |
+| Languages | Stats |
 |---|---|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselito412&layout=compact&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joselito412&show_icons=true&theme=radical) |
 
@@ -226,29 +115,35 @@ Certifications:
 
 ---
 
+<details>
+<summary>📚 Background & Certifications</summary>
+
+**Law — Universidad de los Andes**
+
+Certifications:
+
+- Data Protection Expert  
+- MIT Design Thinking  
+- Data Analysis & Visualization  
+
+</details>
+
+---
+
 # 🌍 Languages
 
 Spanish — Native  
 English — Advanced  
 French — Basic  
-Japanese — Basic
+Japanese — Basic  
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect
 
-- Email: jguillervg@avocado.center
-- LinkedIn: jose-guillermo-vg
-- Portfolio: joselito412.github.io
-- WhatsApp: direct message link
-
----
-
-# ❤️ Volunteering
-
-Social Manager at **TECHO Colombia**
-
-Promoting collaborative projects in communities affected by extreme poverty.
+- Email: jguillervg@avocado.center  
+- LinkedIn: jose-guillermo-vg  
+- Portfolio: joselito412.github.io  
 
 ---
 
